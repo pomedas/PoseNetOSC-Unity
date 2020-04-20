@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 248553161}
   - component: {fileID: 248553160}
   m_Layer: 0
-  m_Name: Nose (2)
+  m_Name: limitRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -588,7 +588,7 @@ GameObject:
   - component: {fileID: 1294770165}
   - component: {fileID: 1294770164}
   m_Layer: 0
-  m_Name: Nose (3)
+  m_Name: limitUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -681,7 +681,7 @@ GameObject:
   - component: {fileID: 1841941557}
   - component: {fileID: 1841941556}
   m_Layer: 0
-  m_Name: Nose (4)
+  m_Name: limitDown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -774,7 +774,7 @@ GameObject:
   - component: {fileID: 2023183492}
   - component: {fileID: 2023183491}
   m_Layer: 0
-  m_Name: Nose (1)
+  m_Name: limitLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
